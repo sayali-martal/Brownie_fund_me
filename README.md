@@ -1,4 +1,4 @@
-# Brownie_fund_me
+# Brownie fund me
 Deployed fund me contract using brownie
 
 ### Topics covered
